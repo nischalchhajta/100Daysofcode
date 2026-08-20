@@ -7,7 +7,6 @@ int main(){
         printf("Invalid input. Please enter a number.\n");
         return 1;
     }
-
     switch (monthnumber) {
         case 1:
             printf("Month: January\nNumber of days: 31\n");

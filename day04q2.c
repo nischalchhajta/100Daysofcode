@@ -1,4 +1,4 @@
-//Q8: Write a program to find and display the sum of the first n natural numbers
+//Q8: Write a program to find and display the sum of the first n natural numbers.
 #include <stdio.h>
 #include <math.h>
 int main(){

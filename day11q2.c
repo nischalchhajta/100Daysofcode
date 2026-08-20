@@ -10,8 +10,7 @@ int main(){
         loss=costprice-sellingprice;
         percentage=(loss/costprice)*100;
         printf("loss is %f\n",loss);
-        printf("loss percentage is %f\n",percentage);
-
+        printf("loss percentage is %f\n",percentage)
     }
     else if(sellingprice>costprice){
         profit=sellingprice-costprice;
