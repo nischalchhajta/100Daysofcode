@@ -10,7 +10,7 @@ Output 1:
 Input 2:
 100
 Output 2:
-1
+1 
 
 */
 #include <stdio.h>

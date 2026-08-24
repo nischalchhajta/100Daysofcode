@@ -26,4 +26,4 @@ int main()
     }
     printf("The factorial of the number is : %d\n",factorial);
     return 0;
-}
+} 
